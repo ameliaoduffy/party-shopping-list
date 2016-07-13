@@ -1,1 +1,5 @@
-how are you
+<<<<<<< HEAD
+how are you
+=======
+Need to buy food for the party:Chips
+>>>>>>> origin/master
